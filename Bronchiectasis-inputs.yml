@@ -1,0 +1,12 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/bronchiectasis---primary.py
+inputModule3:
+  class: File
+  path: python/bronchiectasis---secondary.py
+inputModule4:
+  class: File
+  path: python/output-cases.py
